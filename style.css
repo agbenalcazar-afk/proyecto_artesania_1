@@ -1,0 +1,12 @@
+/* Estilo personalizado */
+header {
+  background: linear-gradient(to right, #2608d4, #6610f2);
+}
+
+.card {
+  border-radius: 15px;
+}
+
+footer {
+  font-size: 14px;
+}
